@@ -187,6 +187,13 @@ h6{
     position: relative
 }
 
+#product-main-1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
 #product2{
     width: 23%;
     min-width: 250px;
@@ -444,6 +451,13 @@ footer p{
     margin: 0;
     font-size: 22px;
     font-weight: bold;
+    
+}
+
+.pro-container-main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     
 }
 
